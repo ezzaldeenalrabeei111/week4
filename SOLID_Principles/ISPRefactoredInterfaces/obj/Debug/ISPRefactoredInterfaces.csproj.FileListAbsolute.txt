@@ -1,0 +1,6 @@
+E:\dede\week4\ISPRefactoredInterfaces\bin\Debug\ISPRefactoredInterfaces.exe
+E:\dede\week4\ISPRefactoredInterfaces\bin\Debug\ISPRefactoredInterfaces.pdb
+E:\dede\week4\ISPRefactoredInterfaces\obj\Debug\ISPRefactoredInterfaces.csproj.AssemblyReference.cache
+E:\dede\week4\ISPRefactoredInterfaces\obj\Debug\ISPRefactoredInterfaces.csproj.CoreCompileInputs.cache
+E:\dede\week4\ISPRefactoredInterfaces\obj\Debug\ISPRefactoredInterfaces.exe
+E:\dede\week4\ISPRefactoredInterfaces\obj\Debug\ISPRefactoredInterfaces.pdb

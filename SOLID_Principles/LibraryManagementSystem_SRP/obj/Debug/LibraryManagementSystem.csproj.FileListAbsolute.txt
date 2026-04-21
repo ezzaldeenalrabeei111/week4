@@ -1,0 +1,6 @@
+E:\dede\week4\LibraryManagementSystem_SRP\bin\Debug\LibraryManagementSystem.exe
+E:\dede\week4\LibraryManagementSystem_SRP\bin\Debug\LibraryManagementSystem.pdb
+E:\dede\week4\LibraryManagementSystem_SRP\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+E:\dede\week4\LibraryManagementSystem_SRP\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+E:\dede\week4\LibraryManagementSystem_SRP\obj\Debug\LibraryManagementSystem.exe
+E:\dede\week4\LibraryManagementSystem_SRP\obj\Debug\LibraryManagementSystem.pdb

@@ -1,0 +1,6 @@
+E:\dede\week4\Notification System (Mini Project)\bin\Debug\NotificationSystem.exe
+E:\dede\week4\Notification System (Mini Project)\bin\Debug\NotificationSystem.pdb
+E:\dede\week4\Notification System (Mini Project)\obj\Debug\NotificationSystem.csproj.AssemblyReference.cache
+E:\dede\week4\Notification System (Mini Project)\obj\Debug\NotificationSystem.csproj.CoreCompileInputs.cache
+E:\dede\week4\Notification System (Mini Project)\obj\Debug\NotificationSystem.exe
+E:\dede\week4\Notification System (Mini Project)\obj\Debug\NotificationSystem.pdb

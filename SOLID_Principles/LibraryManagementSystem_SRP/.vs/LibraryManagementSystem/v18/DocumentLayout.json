@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|E:\\dede\\week4\\LibraryManagementSystem_SRP\\core\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|solutionrelative:core\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|E:\\dede\\week4\\LibraryManagementSystem_SRP\\services\\borrowingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|solutionrelative:services\\borrowingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|e:\\dede\\week4\\librarymanagementsystem_srp\\core\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|solutionrelative:core\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|E:\\dede\\week4\\LibraryManagementSystem_SRP\\services\\displayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|solutionrelative:services\\displayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|E:\\dede\\week4\\LibraryManagementSystem_SRP\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|solutionrelative:services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|E:\\dede\\week4\\LibraryManagementSystem_SRP\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C3D4E5-F6A7-48B9-A011-223344556677}|LibraryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:09:58.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "Services\\MemberService.cs",
+              "ToolTip": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Services\\MemberService.cs",
+              "RelativeToolTip": "Services\\MemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:09:57.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisplayService.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Services\\DisplayService.cs",
+              "RelativeDocumentMoniker": "Services\\DisplayService.cs",
+              "ToolTip": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Services\\DisplayService.cs",
+              "RelativeToolTip": "Services\\DisplayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:09:55.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowingService.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Services\\BorrowingService.cs",
+              "RelativeDocumentMoniker": "Services\\BorrowingService.cs",
+              "ToolTip": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Services\\BorrowingService.cs",
+              "RelativeToolTip": "Services\\BorrowingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:09:54.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Core\\Member.cs",
+              "RelativeDocumentMoniker": "Core\\Member.cs",
+              "ToolTip": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Core\\Member.cs",
+              "RelativeToolTip": "Core\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:09:52.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryItem.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Core\\LibraryItem.cs",
+              "RelativeDocumentMoniker": "Core\\LibraryItem.cs",
+              "ToolTip": "E:\\dede\\week4\\LibraryManagementSystem_SRP\\Core\\LibraryItem.cs",
+              "RelativeToolTip": "Core\\LibraryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:09:50.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

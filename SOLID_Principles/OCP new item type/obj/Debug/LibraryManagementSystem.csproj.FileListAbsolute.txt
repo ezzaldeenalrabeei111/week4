@@ -1,0 +1,6 @@
+E:\dede\week4\OCP new item type\bin\Debug\LibraryManagementSystem.exe
+E:\dede\week4\OCP new item type\bin\Debug\LibraryManagementSystem.pdb
+E:\dede\week4\OCP new item type\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+E:\dede\week4\OCP new item type\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+E:\dede\week4\OCP new item type\obj\Debug\LibraryManagementSystem.exe
+E:\dede\week4\OCP new item type\obj\Debug\LibraryManagementSystem.pdb

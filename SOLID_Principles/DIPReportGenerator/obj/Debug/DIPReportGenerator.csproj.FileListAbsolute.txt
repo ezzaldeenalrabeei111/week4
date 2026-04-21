@@ -1,0 +1,6 @@
+E:\dede\week4\DIPReportGenerator\bin\Debug\DIPReportGenerator.exe
+E:\dede\week4\DIPReportGenerator\bin\Debug\DIPReportGenerator.pdb
+E:\dede\week4\DIPReportGenerator\obj\Debug\DIPReportGenerator.csproj.AssemblyReference.cache
+E:\dede\week4\DIPReportGenerator\obj\Debug\DIPReportGenerator.csproj.CoreCompileInputs.cache
+E:\dede\week4\DIPReportGenerator\obj\Debug\DIPReportGenerator.exe
+E:\dede\week4\DIPReportGenerator\obj\Debug\DIPReportGenerator.pdb

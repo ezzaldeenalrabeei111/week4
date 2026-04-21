@@ -1,0 +1,6 @@
+C:\Users\EZZALDIN\Downloads\BirdHierarchy_LSP_Fixed\obj\Debug\BirdHierarchy.csproj.AssemblyReference.cache
+C:\Users\EZZALDIN\Downloads\BirdHierarchy_LSP_Fixed\obj\Debug\BirdHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\EZZALDIN\Downloads\BirdHierarchy_LSP_Fixed\bin\Debug\BirdHierarchy.exe
+C:\Users\EZZALDIN\Downloads\BirdHierarchy_LSP_Fixed\bin\Debug\BirdHierarchy.pdb
+C:\Users\EZZALDIN\Downloads\BirdHierarchy_LSP_Fixed\obj\Debug\BirdHierarchy.exe
+C:\Users\EZZALDIN\Downloads\BirdHierarchy_LSP_Fixed\obj\Debug\BirdHierarchy.pdb

@@ -1,0 +1,6 @@
+E:\dede\week4\OCPDiscountSystem\bin\Debug\OCPDiscountSystem.exe
+E:\dede\week4\OCPDiscountSystem\bin\Debug\OCPDiscountSystem.pdb
+E:\dede\week4\OCPDiscountSystem\obj\Debug\OCPDiscountSystem.csproj.AssemblyReference.cache
+E:\dede\week4\OCPDiscountSystem\obj\Debug\OCPDiscountSystem.csproj.CoreCompileInputs.cache
+E:\dede\week4\OCPDiscountSystem\obj\Debug\OCPDiscountSystem.exe
+E:\dede\week4\OCPDiscountSystem\obj\Debug\OCPDiscountSystem.pdb

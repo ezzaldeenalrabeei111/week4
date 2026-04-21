@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dede\\week4\\BirdHierarchy_LSP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|e:\\dede\\week4\\birdhierarchy_lsp\\birds\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|solutionrelative:birds\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|E:\\dede\\week4\\BirdHierarchy_LSP\\core\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|solutionrelative:core\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|E:\\dede\\week4\\BirdHierarchy_LSP\\birds\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|solutionrelative:birds\\sparrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|E:\\dede\\week4\\BirdHierarchy_LSP\\birds\\ostrich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|solutionrelative:birds\\ostrich.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|E:\\dede\\week4\\BirdHierarchy_LSP\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|E:\\dede\\week4\\BirdHierarchy_LSP\\birds\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D2E3F4-A5B6-47C8-D9E0-F1A2B3C4D5E6}|BirdHierarchy.csproj|solutionrelative:birds\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\BirdHierarchy_LSP\\Birds\\Penguin.cs",
+              "RelativeDocumentMoniker": "Birds\\Penguin.cs",
+              "ToolTip": "E:\\dede\\week4\\BirdHierarchy_LSP\\Birds\\Penguin.cs",
+              "RelativeToolTip": "Birds\\Penguin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:56:26.477Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\BirdHierarchy_LSP\\Core\\Bird.cs",
+              "RelativeDocumentMoniker": "Core\\Bird.cs",
+              "ToolTip": "E:\\dede\\week4\\BirdHierarchy_LSP\\Core\\Bird.cs",
+              "RelativeToolTip": "Core\\Bird.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:56:31.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sparrow.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\BirdHierarchy_LSP\\Birds\\Sparrow.cs",
+              "RelativeDocumentMoniker": "Birds\\Sparrow.cs",
+              "ToolTip": "E:\\dede\\week4\\BirdHierarchy_LSP\\Birds\\Sparrow.cs",
+              "RelativeToolTip": "Birds\\Sparrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:56:27.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ostrich.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\BirdHierarchy_LSP\\Birds\\Ostrich.cs",
+              "RelativeDocumentMoniker": "Birds\\Ostrich.cs",
+              "ToolTip": "E:\\dede\\week4\\BirdHierarchy_LSP\\Birds\\Ostrich.cs",
+              "RelativeToolTip": "Birds\\Ostrich.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:56:25.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\BirdHierarchy_LSP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\dede\\week4\\BirdHierarchy_LSP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAgwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:56:07.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "E:\\dede\\week4\\BirdHierarchy_LSP\\Birds\\Eagle.cs",
+              "RelativeDocumentMoniker": "Birds\\Eagle.cs",
+              "ToolTip": "E:\\dede\\week4\\BirdHierarchy_LSP\\Birds\\Eagle.cs",
+              "RelativeToolTip": "Birds\\Eagle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T20:55:54.086Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

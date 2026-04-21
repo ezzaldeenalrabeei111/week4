@@ -1,0 +1,6 @@
+C:\Users\EZZALDIN\Downloads\DIPNotificationService\bin\Debug\DIPNotificationService.exe
+C:\Users\EZZALDIN\Downloads\DIPNotificationService\bin\Debug\DIPNotificationService.pdb
+C:\Users\EZZALDIN\Downloads\DIPNotificationService\obj\Debug\DIPNotificationService.csproj.AssemblyReference.cache
+C:\Users\EZZALDIN\Downloads\DIPNotificationService\obj\Debug\DIPNotificationService.csproj.CoreCompileInputs.cache
+C:\Users\EZZALDIN\Downloads\DIPNotificationService\obj\Debug\DIPNotificationService.exe
+C:\Users\EZZALDIN\Downloads\DIPNotificationService\obj\Debug\DIPNotificationService.pdb
