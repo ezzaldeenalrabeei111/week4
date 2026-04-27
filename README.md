@@ -1,4 +1,4 @@
-#Feature Branch Version NET Internship - Week 4 on Main
+# # .NET Internship - Week 4 (Main Version)
 
 This folder contains all projects and reports completed during the fourth week of the internship.
 
