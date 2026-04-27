@@ -1,4 +1,4 @@
-# # .NET Internship - Week 4 (Final Main Version)
+# .NET Internship - Week 4 (Conflict Resolved).
 
 This folder contains all projects and reports completed during the fourth week of the internship.
 
