@@ -1,0 +1,12 @@
+# Visual Studio Build Results 
+[Dd]ebug/ 
+[Rr]elease/ 
+[Bb]in/ 
+[Oo]bj/ 
+.vs/ 
+*.user 
+*.suo 
+packages/ 
+*.nupkg 
+*.mdf 
+*.ldf
